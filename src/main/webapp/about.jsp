@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>this is about pagee</title>
 </head>
 <body>
-<h2>hello world</h2>
-<a href="about.jsp"> about</a>
+<h1>this is about page</h6>
 </body>
 </html>
